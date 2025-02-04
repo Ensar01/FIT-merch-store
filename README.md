@@ -1,1 +1,1 @@
-# FIT-merch-store
+# FIT-merch-store 🛍️
