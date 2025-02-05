@@ -1,0 +1,6 @@
+@merchFITbackend_HostAddress = http://localhost:5056
+
+GET {{merchFITbackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
